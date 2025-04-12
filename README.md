@@ -15,6 +15,12 @@
 * git diff,
 * git reset,
 * git reset --hard
-* lalala1
-* lalala2
-* lalala3
+* [x] checked
+* [] unchecked
+* > Меньше знаешь - Меньше знаешь, Больше знаешь - Больше знаешь
+* ! [faza](C:\Users\stud7korp2\Desktop\5460916806966438772.jpg "Логотип Файзали")
+```
+a = 1
+b = 2
+print(a+b)
+```
