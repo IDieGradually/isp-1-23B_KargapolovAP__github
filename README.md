@@ -15,3 +15,6 @@
 * git diff,
 * git reset,
 * git reset --hard
+* lalala1
+* lalala2
+* lalala3
