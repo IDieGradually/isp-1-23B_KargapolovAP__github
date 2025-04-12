@@ -18,7 +18,7 @@
 * [x] checked
 * [ ] unchecked
 * > Меньше знаешь - Меньше знаешь, Больше знаешь - Больше знаешь
-* ![logo](https://www.bellanaija.com/wp-content/uploads/2013/07/DBanj-Hennessy-Artistry-2013-1.jpg "Логотип Файзали")
+* ![logo](file:///C:/Users/stud7korp2/Desktop/5460916806966438772.jpg "Логотип Файзали")
 ```
 a = 1
 b = 2
