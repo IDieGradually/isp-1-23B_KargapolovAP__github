@@ -16,7 +16,7 @@
 * git reset,
 * git reset --hard
 * [x] checked
-* [] unchecked
+* [ ] unchecked
 * > Меньше знаешь - Меньше знаешь, Больше знаешь - Больше знаешь
 * ![logo](https://www.bellanaija.com/wp-content/uploads/2013/07/DBanj-Hennessy-Artistry-2013-1.jpg "Логотип Файзали")
 ```
