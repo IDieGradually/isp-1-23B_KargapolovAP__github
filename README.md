@@ -1,6 +1,6 @@
 # Практика по Github
 ## isp-1-23B_KargapolovAP__github
-«Из прошлой работы я узнал следующие git
+Из прошлой работы я узнал следующие git
 команды: 
 * cd,
 * git config --global user.name,
@@ -14,4 +14,4 @@
 * git log -oneline,
 * git diff,
 * git reset,
-* git reset --hard»
+* git reset --hard
